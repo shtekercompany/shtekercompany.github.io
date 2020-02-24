@@ -1,9 +1,13 @@
 .jumbotron{
-    border-bottom: 2px solid #343a40;
+    border-bottom: 1xpx solid #343a40;
+    margin-bottom: 0 !important;
 }
 .firstmainphoto{  
-    width: 420px;
+    width: 350px;
 }
 .secondmainphoto{
-    width: 420px;
+    width: 350px;
+}
+footer{
+    background-color: #e9ecef;
 }
